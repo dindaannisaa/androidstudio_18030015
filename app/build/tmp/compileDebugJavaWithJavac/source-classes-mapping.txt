@@ -1,0 +1,8 @@
+com/example/microphonetugas2/BuildConfig.java
+ com.example.microphonetugas2.BuildConfig
+com/example/microphonetugas2/MainActivity.java
+ com.example.microphonetugas2.MainActivity
+ com.example.microphonetugas2.MainActivity$1
+ com.example.microphonetugas2.MainActivity$2
+ com.example.microphonetugas2.MainActivity$3
+ com.example.microphonetugas2.MainActivity$4

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="42dp"
+        android:text="RECORD AREA"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnMulaiRecord"
+        android:layout_width="110dp"
+        android:layout_height="65dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="116dp"
+        android:text="RECORD" />
+
+    <Button
+        android:id="@+id/btnStopRecord"
+        android:layout_width="118dp"
+        android:layout_height="66dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="254dp"
+        android:layout_marginTop="120dp"
+        android:text="STOP" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="232dp"
+        android:text="PLAY AREA"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnMulaiPlay"
+        android:layout_width="112dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="305dp"
+        android:text="PLAY" />
+
+    <Button
+        android:id="@+id/btnStopPlay"
+        android:layout_width="112dp"
+        android:layout_height="66dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="264dp"
+        android:layout_marginTop="303dp"
+        android:text="STOP" />
+
+
+
+
+
+
+</RelativeLayout>
